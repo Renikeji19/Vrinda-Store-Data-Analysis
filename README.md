@@ -35,6 +35,13 @@ The following steps were applied to clean the data for analysis:
 5. Leading or trailing spaces in the text fields were removed.
 
 ### 3. Analysis and Findings
+
+#### Monthly Sales and Order Quantities
+Product orders and sales is highest in the first quarter, particularly in March. The latter half of the year sees a continuous drop in performance, with the lowest point in December.
+This indicates that the store experiences strong seasonality, with significant peaks in early spring and notable declines towards the end of the year.
+
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/608ff617-adac-43c3-a83b-b54eb98784ad)
+
 #### Most Common Categories of items
 The analysis of the "Category" column indicates that 'Set', 'Kurta', and 'Western Dress' are the most frequently appearing product categories.
 
@@ -48,30 +55,34 @@ Items were predominantly delivered to major states such as Maharashtra, Karnatak
 
 92% of orders wwere delivered, 3% orders returned, 2.7% cancelled and 1.67% orders refunded.
 
-![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/a1e69140-a549-4f6a-9fb2-8453c585bf44)
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/01ddffaf-9dd0-413c-b3bb-8a2cee30286f)
+
 
 #### Sales Demographics
 The sales distribution by gender shows a higher purchasing trend among women (64%) compared to men (36%). 
 
-![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/4e4c0c00-644d-49c2-896c-d49a3ee4c05b)
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/0e1b5488-d8e7-4b63-8234-54a331381420)
+
 
 For both genders, adult customers constitute the majority of the store's clientele.
 
-![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/ce3939c3-513f-41a0-b55d-d8d89dd08b4f)
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/21519aaf-fbf4-4bb8-9b66-1fc143d9bc1c)
+
 
 #### Channel Analysis
 Amazon, Myntra and Flipkart emerge as the leading channels for sales, suggesting a strong online consumer preference.
 
-![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/42db15f3-c071-48ba-9f4c-b5b3fd30a9d4)
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/b361cef0-3f9d-4560-88e3-94eda4360153)
+
 
 ### 5. Conclusion
 The analysis reveals that Vrinda Store has a strong market presence in major states with a diverse product range, predominantly purchased by adult women through major online platforms. 
 The seasonal spikes in sales and the high rate of successful deliveries are indicative of effective operational and logistical capabilities.
 
 ### 6. Recommendations
-- **Expand Product Range:** Increase inventory in high-demand categories such as 'Ethnic Dress' during peak shopping seasons.
-- **Marketing Focus:** Target marketing efforts towards women and enhance online presence on Amazon and Flipkart to capitalize on these channels' strong performance.
-- **Customer Segmentation:** Develop targeted promotions and discounts for adult customers to maintain loyalty and increase customer lifetime value.
+- **Expand Product Range:** The store should increase inventory in high-demand categories such as 'Sets' and 'Kurta' during peak shopping seasons.
+- **Marketing Focus:** Marketing efforts should be targeted more towards men and the stores online presence on Amazon, Mynra and Flipkart should be enhanced to capitalize on these channels' strong performance.
+- **Customer Segmentation:** Targeted promotions and discounts should be developed for adult customers to maintain loyalty and increase customer lifetime value.
 
 
 
