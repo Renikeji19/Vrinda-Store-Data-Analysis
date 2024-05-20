@@ -14,8 +14,11 @@ The analysis focuses on evaluating sales performance across different categories
 In order to uncover the business problems and weak areas to work on to generate more profit I outlined some questions to be answered by the data analysis.
 
 •	What are the most common categories of items sold in 2022?
+
 • How many items were delivered in a specific city or state?
+
 • What is the average amount spent on different categories of items?
+
 • How many items have the status "Delivered" on a specific date?
 
 ### 2. Data Overview and Data Cleaning
@@ -32,8 +35,9 @@ The following steps were applied to clean the data for analysis:
 5. Leading or trailing spaces in the text fields were removed.
 
 ### 3. Analysis and Findings
-#### Most Common Categories
-The analysis of the "Category" column indicates that 'Ethnic Dress', 'Blouse', and 'Bottom' are the most frequently appearing categories.
+#### Most Common Categories of items
+The analysis of the "Category" column indicates that 'Set', 'Kurta', and 'Western Dress' are the most frequently appearing product categories.
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/401f2770-3d6d-4801-9700-a6b0cd993b4e)
 
 
 
