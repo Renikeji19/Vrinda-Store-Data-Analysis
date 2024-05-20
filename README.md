@@ -37,7 +37,47 @@ The following steps were applied to clean the data for analysis:
 ### 3. Analysis and Findings
 #### Most Common Categories of items
 The analysis of the "Category" column indicates that 'Set', 'Kurta', and 'Western Dress' are the most frequently appearing product categories.
-![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/401f2770-3d6d-4801-9700-a6b0cd993b4e)
+
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/bb34f2ad-fb9b-4655-bdd1-8eb454ce109b)
+
+#### Delivery Insights and Order Status
+Items were predominantly delivered to major states such as Maharashtra, Karnataka, and Uttar Pradesh, with Maharashtra leading in sales volume.
+
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/45629a48-84b0-4b23-b328-7ebfff600ee3)
+
+
+92% of orders wwere delivered, 3% orders returned, 2.7% cancelled and 1.67% orders refunded.
+
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/a1e69140-a549-4f6a-9fb2-8453c585bf44)
+
+#### Sales Demographics
+The sales distribution by gender shows a higher purchasing trend among women (64%) compared to men (36%). 
+
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/4e4c0c00-644d-49c2-896c-d49a3ee4c05b)
+
+For both genders, adult customers constitute the majority of the store's clientele.
+
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/ce3939c3-513f-41a0-b55d-d8d89dd08b4f)
+
+#### Channel Analysis
+Amazon, Myntra and Flipkart emerge as the leading channels for sales, suggesting a strong online consumer preference.
+
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/42db15f3-c071-48ba-9f4c-b5b3fd30a9d4)
+
+### 5. Conclusion
+The analysis reveals that Vrinda Store has a strong market presence in major states with a diverse product range, predominantly purchased by adult women through major online platforms. 
+The seasonal spikes in sales and the high rate of successful deliveries are indicative of effective operational and logistical capabilities.
+
+### 6. Recommendations
+- **Expand Product Range:** Increase inventory in high-demand categories such as 'Ethnic Dress' during peak shopping seasons.
+- **Marketing Focus:** Target marketing efforts towards women and enhance online presence on Amazon and Flipkart to capitalize on these channels' strong performance.
+- **Customer Segmentation:** Develop targeted promotions and discounts for adult customers to maintain loyalty and increase customer lifetime value.
+
+
+
+
+
+
 
 
 
