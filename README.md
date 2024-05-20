@@ -10,6 +10,9 @@ ADEPEJU SHITTU
 This report presents a comprehensive analysis of the sales data for Vrinda Store for the year 2022. 
 The analysis focuses on evaluating sales performance across different categories, states, and consumer demographics to provide actionable insights that can help optimize the store's operations and marketing strategy.
 
+![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/1dfd43a1-e1c4-40f4-9223-3636868417ea)
+
+
 ### 2. Business Questions
 In order to uncover the business problems and weak areas to work on to generate more profit I outlined some questions to be answered by the data analysis.
 
