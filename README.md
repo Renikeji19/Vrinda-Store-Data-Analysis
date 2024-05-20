@@ -24,7 +24,7 @@ In order to uncover the business problems and weak areas to work on to generate 
 
 • How many items have the status "Delivered" on a specific date?
 
-### 2. Data Overview and Data Cleaning
+### 3. Data Overview and Data Cleaning
 The dataset comprises 31,047 sales records for the year 2022, detailing transactional data across various categories, channels, and demographics. 
 Key variables include month, sales channel, category of items sold, order status, and sales distribution among different customer demographics including gender and age.
 ![image](https://github.com/Renikeji19/Vrinda-Store-Data-Analysis/assets/97131888/677b5638-deab-42ec-8469-ec69a17536bb)
@@ -37,7 +37,7 @@ The following steps were applied to clean the data for analysis:
 4. Inconsistent Entries were corrected by standardizing entries in each column.
 5. Leading or trailing spaces in the text fields were removed.
 
-### 3. Analysis and Findings
+### 4. Analysis and Findings
 
 #### Monthly Sales and Order Quantities
 Product orders and sales is highest in the first quarter, particularly in March. The latter half of the year sees a continuous drop in performance, with the lowest point in December.
